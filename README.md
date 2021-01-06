@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Follow these simple steps to have your own whatsapp clone
 
 #### 1: Clone this repo using this command 
-`git clone https://github.com/alii13/whatsapp-clone.git`
+`git clone https://github.com/leonardotran/whatsapp-clone`
 
 #### 2: Enter 
 `cd whatsapp-clone`
@@ -13,11 +13,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 #### 4: Goto `src` & Find file named `firebase.js` => Replace the config data to your project config data.
 
-![](https://i.ibb.co/DLS72Py/final.png)
 Firebase config data you have to replace it with yours & save.
 
 #### 5: Now, Goto `src` directory again and find file named `.firebasesrc`
-![](https://i.ibb.co/zhPvYpc/firebasesrc.png)
 
 Replace the line `"default": "your_project__name"` & save.
 
